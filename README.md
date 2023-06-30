@@ -157,11 +157,12 @@ Result out the video is given below:
 <img src="./assets/Input.gif" alt="Lane" width="266" height="190" style='display: inline-block;' ><img src="./assets/binary_lane.gif" alt="Lane" width="266" height="190" style='display: inline-block;' ><img src="./assets/Green_lane.gif" alt="Lane" width="266" height="190" style='display: inline-block;' >
 </p>
 
+<!--
 <p align='center'>
 <img src="./assets/Process_video.gif" alt="Lane" width="800" height="190" >
 </p>
 
-
+-->
 
 
 
