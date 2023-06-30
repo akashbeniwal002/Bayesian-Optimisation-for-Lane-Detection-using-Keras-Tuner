@@ -1,5 +1,6 @@
 # **Lane Detection for Autonomous Vehicles: Image Segmentation with Bayesian Optimization using Keras Tuner**
 
+
 ### Objective:
 *	The project's aim is to detect and segment ***'lanes'*** from images, aiding autonomous vehicles in maintaining a consistent lane position.
 *	Deep learning techniques, ***'image segmentation'***, is employed to accurately identify and extract lanes within images.  
