@@ -153,18 +153,15 @@ Model is used on Video with the help of \`*opencv\`* library (refer [Video Testi
 3. Using the \`*VideoWriter\`* function, a new video file is created to store the segmented frames. Each segmented frame is added to the video file, and finally, it is saved to a specified location.
 
 Result out the video is given below:
-
+<!--
 <p >
 <img src="./assets/Input.gif" alt="Lane" width="266" height="190" style='display: inline-block;' ><img src="./assets/binary_lane.gif" alt="Lane" width="266" height="190" style='display: inline-block;' ><img src="./assets/Green_lane.gif" alt="Lane" width="266" height="190" style='display: inline-block;' >
 </p>
+-->
 
-<!--
 <p align='center'>
 <img src="./assets/Process_video.gif" alt="Lane" width="800" height="190" >
 </p>
-
--->
-
 
 
 
